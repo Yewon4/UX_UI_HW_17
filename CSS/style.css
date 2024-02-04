@@ -122,7 +122,7 @@ footer{
     right:0;
     background: rgba(204, 183, 183, 0.54);
     height: auto;
-    width: 100vw;
+    width: 100%;
     font-family: "Noto Sans";
     color: black;
     padding-top: 24px;
@@ -173,7 +173,7 @@ footer{
 
 .footer-bottom{
     background: #B3A1A1;
-    width: 100vw;
+    width: 100%;
     text-align: right;
     margin: auto;
     padding-right: 0;
